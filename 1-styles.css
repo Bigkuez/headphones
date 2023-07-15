@@ -135,22 +135,22 @@ section{
   align-items: center;
   
 }
-.welcome{
+.lorel-ipsum{
   background-image: url("./images/headphones_hero_1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;  
 
 }
-.welcome > h1{
+.lorel-ipsum > h1{
   color: var(--main-color-white);
   padding-top: 15rem;
 }
-.welcome p:nth-of-type(1){
+.lorel-ipsum p:nth-of-type(1){
   margin-top: -1.5rem;
   color: var(--main-color-white);
 }
-.welcome p:nth-of-type(2){
+.lorel-ipsum p:nth-of-type(2){
   margin-top: 5rem;
   width: 637px;
   line-height: 26px;
