@@ -7,7 +7,7 @@
   src: url(./Font/Spin-Cycle-OT/spincycle_ot.otf);
 }
 :root{
-  --main-color-black: #000000;
+  --main-color-black: #000000; 
   --main-color-red: #FF6565;
   --main-color-white: #FFFFFF;
   --main-color-white-gray: #D8D8D8;
